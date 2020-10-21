@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E5CREPq8mSt2F2AYxGX8K4rlurPcJpxAo4qPgf0pmdz4E3+0+33FZwOW0DYlIHfbGZJnOMdO2rUbdsxydyWtpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eleme\\source\\repos\\SmallerNumbers\\SmallerNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eleme\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

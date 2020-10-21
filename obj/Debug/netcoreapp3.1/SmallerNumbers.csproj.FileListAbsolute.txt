@@ -1,0 +1,13 @@
+C:\Users\eleme\source\repos\SmallerNumbers\bin\Debug\netcoreapp3.1\SmallerNumbers.exe
+C:\Users\eleme\source\repos\SmallerNumbers\bin\Debug\netcoreapp3.1\SmallerNumbers.deps.json
+C:\Users\eleme\source\repos\SmallerNumbers\bin\Debug\netcoreapp3.1\SmallerNumbers.runtimeconfig.json
+C:\Users\eleme\source\repos\SmallerNumbers\bin\Debug\netcoreapp3.1\SmallerNumbers.runtimeconfig.dev.json
+C:\Users\eleme\source\repos\SmallerNumbers\bin\Debug\netcoreapp3.1\SmallerNumbers.dll
+C:\Users\eleme\source\repos\SmallerNumbers\bin\Debug\netcoreapp3.1\SmallerNumbers.pdb
+C:\Users\eleme\source\repos\SmallerNumbers\obj\Debug\netcoreapp3.1\SmallerNumbers.csprojAssemblyReference.cache
+C:\Users\eleme\source\repos\SmallerNumbers\obj\Debug\netcoreapp3.1\SmallerNumbers.AssemblyInfoInputs.cache
+C:\Users\eleme\source\repos\SmallerNumbers\obj\Debug\netcoreapp3.1\SmallerNumbers.AssemblyInfo.cs
+C:\Users\eleme\source\repos\SmallerNumbers\obj\Debug\netcoreapp3.1\SmallerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\eleme\source\repos\SmallerNumbers\obj\Debug\netcoreapp3.1\SmallerNumbers.dll
+C:\Users\eleme\source\repos\SmallerNumbers\obj\Debug\netcoreapp3.1\SmallerNumbers.pdb
+C:\Users\eleme\source\repos\SmallerNumbers\obj\Debug\netcoreapp3.1\SmallerNumbers.genruntimeconfig.cache
